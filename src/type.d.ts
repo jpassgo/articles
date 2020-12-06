@@ -1,7 +1,7 @@
 interface Article {
     id: number,
     title: string,
-    body: string
+    content: string
 }
 
 type ArticleState = {
