@@ -29,7 +29,7 @@ export const AddArticle: React.FC<Props> = ({ saveArticle }) => {
             />
             <input
                 type="text"
-                id="body"
+                id="content"
                 placeholder="Description"
                 onChange={handleArticleData}
             />
