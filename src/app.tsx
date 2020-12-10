@@ -33,3 +33,5 @@ const App: React.FC = () => {
         </main>
     )
 }
+
+export default App
